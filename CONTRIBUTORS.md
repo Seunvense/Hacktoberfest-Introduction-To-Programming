@@ -37,4 +37,9 @@
 #### [Voragun Supawong](https://github.com/voraguns)
 - Place: Bangkok, Thailand
 - Bio: Java Developer
-- 
+
+#### [Ojo Oluwaseun](https://github.com/Seunvense)
+- Place: Ibadan, Nigeria
+- Bio:  Machine Learning Engineer | Software Developer
+- Linkedln: [Ojo Oluwaseun](https://www.linkedin.com/in/ojo-oluwaseun-vincent-19441aba?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- Twitter: [Seunvense](https://x.com/Seunvense?t=kQ1o7QD3oKKjOiONzdHCBw&s=09)
